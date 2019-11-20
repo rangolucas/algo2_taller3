@@ -83,8 +83,10 @@ private:
     struct Nodo {
         vector<Nodo*> siguientes;
         T* definicion;
+        Nodo(T*);
     };
 
+    Nodo* nodoAt(const string& key);
     Nodo* raiz;
     int _size;
 };
