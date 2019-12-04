@@ -1,0 +1,7 @@
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/correrTests_ext.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/gtest.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/lucas/workspace/algo2_taller3/cmake-build-debug/CMakeFiles/correrValgrind.dir

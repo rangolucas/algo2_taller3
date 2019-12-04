@@ -84,11 +84,16 @@ private:
         vector<Nodo*> siguientes;
         T* definicion;
         Nodo(T*);
+        ~Nodo();
+        bool tieneSiguientes() const;
+        void borrarSiguientes();
     };
 
-    Nodo* nodoAt(const string& key);
+    Nodo* nodoAt(const string& key) const;
+    void optionalErase(const string& key, bool esObjetivo);
     Nodo* raiz;
     int _size;
+    set<string> _definidas;
 };
 
 #include "string_map.hpp"
